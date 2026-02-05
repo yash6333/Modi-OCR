@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# Data (we'll add datasets later)
+data/raw/
+data/train/
+data/val/
+data/test/
+testing.py
