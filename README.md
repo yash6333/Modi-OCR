@@ -82,7 +82,7 @@ Do **not** rename class folders or images.
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/yash6333/Modi-OCR.git
 cd modi-ocr
 
 python -m venv venv
